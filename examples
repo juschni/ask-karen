@@ -1,4 +1,18 @@
-examples/
-├── sample-email.md
-├── sample-output.md
-└── screenshots/
+# Beispiel E-Mail
+
+## Original
+
+Hello,
+
+Your payment has been received.
+Your order will be shipped tomorrow.
+
+Best regards
+
+Company Team
+
+---
+
+## Ask Karen Analyse
+
+Diese Datei dient als Testeingabe für Ask Karen Mail Assistant.
